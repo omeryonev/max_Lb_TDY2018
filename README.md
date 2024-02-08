@@ -16,4 +16,8 @@ Jupyer Lab
 
 **How to use:**
 
-input the values E, i_y and F_y to get the max L_b length
+1. Input the values E, i_y and F_y to get the max L_b length
+
+2. In order to get the output in report format, select File/Save and Export Notebook As../HTML_NoInput
+
+3. Open the HTML file and save as as pdf.
