@@ -1,4 +1,4 @@
-# max_Lb_TDY2018
+# max_Lb_TDY2018 v.01
 
 Kirislerde stabilite baglantilari, TDY 2018, Sec. 9.2.8
 
